@@ -1,0 +1,23 @@
+<svg viewBox="0 0 620 150" xmlns="http://www.w3.org/2000/svg">
+  <!-- 
+    "ABHINAV" Logo (Vector, Transparent Background, White Text)
+    
+    Installation: Save this code as 'abhinav.svg'
+    React Usage: <img src="./path/to/abhinav.svg" alt="Abhinav Logo" />
+    
+    Warning: If your website background is white, you must wrap the image in a 
+    dark container because the text itself is solid white (#FFFFFF).
+  -->
+  <text 
+    x="50%" 
+    y="115" 
+    textAnchor="middle" 
+    fontWeight="900" 
+    fontSize="130px" 
+    fill="#FFFFFF" 
+    fontFamily="Arial Black, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif"
+    letter-spacing="-2px"
+  >
+    ABHINAV
+  </text>
+</svg>
